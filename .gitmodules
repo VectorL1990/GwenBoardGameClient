@@ -1,0 +1,9 @@
+[submodule "Assets/Sproto/SprotoCSharp"]
+	path = Assets/Sproto/SprotoCSharp
+	url = https://github.com/shimingliangdm/sproto-Csharp.git
+[submodule "Assets/Sproto/SprotoUnity"]
+	path = Assets/Sproto/SprotoUnity
+	url = https://github.com/shimingliangdm/sproto-Unity.git
+[submodule "Assets/Sproto/Sprotodump"]
+	path = Assets/Sproto/Sprotodump
+	url = https://github.com/shimingliangdm/sprotodump.git
